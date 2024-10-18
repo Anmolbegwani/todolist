@@ -9,6 +9,8 @@ To-Do List Web Application
 Description :
 The To-Do List Web Application is designed to help users effectively manage their daily tasks. It allows users to create, edit, and delete tasks in a simple and intuitive interface. The application aims to enhance productivity and organization by providing a straightforward tool for task management.
 
+![Screenshot 2024-10-18 at 1 55 52 PM](https://github.com/user-attachments/assets/65dfb725-8b1a-41e6-b5de-223c4c20d9cc)
+
 Technologies Used :
 Frontend:
 HTML: For the structure of the web application.
